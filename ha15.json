@@ -1,0 +1,34 @@
+{
+  "data" : [
+    [
+      "git clone",
+      "klont das Repository",
+      "$ git clone link"
+	  
+    ],
+    [
+      "git add",
+      "bereitet die Zwischenspeicherung vor",
+      "$ git add ."
+	  
+    ],
+	[
+      "git commit",
+      "Zwischenspeicherung",
+      "§ git commit -m 'zwischenspeicherung'"
+	  
+    ],
+	[
+      "git push",
+      "läd es ins Repository hoch",
+      "$ git push origin master"
+	  
+    ],
+	[
+      "git pull",
+      "synchronisiert Arbeitsordner mit dem Repository",
+      "$ it pull"
+	  
+    ]
+	]
+	}
